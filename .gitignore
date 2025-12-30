@@ -211,6 +211,5 @@ data/
 logs/
 cred.py
 
-
 # macOS system files
 .DS_Store
