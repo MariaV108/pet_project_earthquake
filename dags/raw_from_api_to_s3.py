@@ -20,7 +20,9 @@ SOURCE = "earthqwake"
 ACCESS_KEY = Variable.get("access_key")
 SECRET_KEY = Variable.get("secret_key")
 
-LONG_DESCRIPTION = #  LONG_DESCRIPTION
+LONG_DESCRIPTION = """
+#  LONG_DESCRIPTION
+"""
 
 
 SHORT_DESCRIPTION = "SHORT_DESCRIPTION"
